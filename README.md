@@ -1,47 +1,32 @@
-# 🎥 VideoStreaming
+# Real Estate Website 🏡
 
-## 📄 Overview
+A fully responsive Real Estate website built with **React JS** and **Tailwind CSS**. This project showcases smooth animations, a contact form to send inquiries directly to the admin’s email, and provides a sleek, modern UI for users looking to explore real estate properties.
 
-**VideoStreaming** is a full-stack application designed for uploading, converting, and streaming video content using modern web technologies. This project utilizes **React** for the frontend, **Express** for the backend, and **FFmpeg** for video processing.
+## 🌐 Live Demo
+Check out the live version here: [https://estatedev.netlify.app/](https://estatedev.netlify.app/)
 
-## ✨ Features
-
-- **📤 Video Upload**: Upload videos through a user-friendly interface.
-- **🔄 Video Conversion**: Convert uploaded videos to HLS (HTTP Live Streaming) format using FFmpeg.
-- **📺 Video Streaming**: Stream videos seamlessly with a custom video player built using Video.js.
-- **📱 Responsive Design**: Fully responsive and fluid video player design.
+## 🚀 Features
+- **Responsive Design**: Adjusts seamlessly across devices.
+- **Animations**: Engaging and smooth animations powered by Framer Motion.
+- **Contact Form**: Inquiries sent directly to admin’s email using [Web3Forms](https://docs.web3forms.com/).
+- **Notifications**: User-friendly feedback with React Toastify.
 
 ## 🛠️ Technologies Used
-
-- **Frontend**:
-  - ⚛️ React
-  - 🎬 Video.js
-- **Backend**:
-  - 🟢 Node.js
-  - ⚙️ Express
-  - 📂 Multer (for file uploads)
-  - 🎞️ FFmpeg (for video conversion)
-- **Other**:
-  - 🔑 UUID (for unique identifiers)
-  - 🌀 Nodemon (for development)
-
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-
-- 🖥️ **Node.js** and **npm** installed
-- 🎞️ **FFmpeg** installed
-
-### 📦 Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/videostreaming.git
+- **React JS**: A powerful JavaScript library for building user interfaces.
+- **Tailwind CSS**: For a quick and efficient styling workflow.
+- **Framer Motion**: Smooth animations and transitions.
+- **React Toastify**: For interactive toast notifications.
+- **Netlify**: Hosting platform for the live demo.
+- **Web3Forms**: Handling form submissions via email.
+## 📥 Installation and Setup
+### Clone the repository
+```bash
+git clone https://github.com/pradyumn8/Real-Estate-Website.git
 ```
 ### Navigate into the project directory
-   ```bash
-  cd videostreaming
-   ```
+ ```bash
+ cd Real-Estate-Website
+ ```
 
 ### Install dependencies
    ```bash
