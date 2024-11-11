@@ -20,12 +20,25 @@ Check out the live version here: [https://estatedev.netlify.app/](https://estate
 - **Web3Forms**: Handling form submissions via email.
 
 ## 📥 Installation and Setup
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/pradyumn8/Real-Estate-Website.git
+```
+### Navigate into the project directory
+   ```bash
+  cd Real-Estate-Website
+   ```
 
-# Navigate into the project directory
-cd Real-Estate-Website
+### Install dependencies
+   ```bash
+  npm install
+   ```
+### Run the Project
+   ```bash
+  npm run dev
+   ``
+``
+#### Visit http://localhost:5153 in your browser.
 
-# Install dependencies
-npm install
+### Contributing
+#### Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
