@@ -36,8 +36,7 @@ git clone https://github.com/pradyumn8/Real-Estate-Website.git
 ### Run the Project
    ```bash
   npm run dev
-   ``
-``
+   ```
 #### Visit http://localhost:5153 in your browser.
 
 ### Contributing
